@@ -90,8 +90,8 @@ PARALLEL PROCEDURE b0Move
 			IF a3 > 8 THEN
 				INK RED
 				LOCATE TASK*2,ROWS/2:PRINT "-1"
-				IF a2 > 0 THEN
-					DEC a2
+				IF a2 > 29 THEN
+					a2 = a2 - 30
 				ENDIF
 				a3 = 0
 			ENDIF
@@ -250,3 +250,4 @@ DO
 	WAIT KEY RELEASE
 
 LOOP
+
