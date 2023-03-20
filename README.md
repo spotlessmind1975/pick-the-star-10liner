@@ -3,7 +3,7 @@ BASIC 10 liner "pick the star"
 
 ![copertina](pictures/copertina.jpg)
 
-**PICK THE STAR (10 LINER)** is a game for two players, written in [ugBASIC](https://ugbasic.iwashere.eu) and that runs on various 8-bit home computers. This game is a arcade game for one player. The player must pick mostly the stars that descend from the top of the screen, because they give to the player the higher score. In order to have a more quick binder, you can also take the circles (but you got less points). It is a self-competiting game. This game is designed for one player.
+**PICK THE STAR (10 LINER)** is a game written in [ugBASIC](https://ugbasic.iwashere.eu) and that runs on various 8-bit home computers. This game is a arcade game for one player. The player must pick mostly the stars that descend from the top of the screen, because they give to the player the higher score. In order to have a more quick binder, you can also take the circles (but you got less points). It is a self-competiting game. This game is designed for one player.
 
 [Click here](/docs/instructions.md) to read the instructions on how to play. 
 
