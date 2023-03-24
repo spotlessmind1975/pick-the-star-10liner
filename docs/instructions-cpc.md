@@ -16,7 +16,7 @@ Once the emulator software has been installed, follow the instructions below:
  - select <code>pick-the-star-10liner.cpc.dsk</code> file ([click here to download](https://spotlessmind1975.itch.io/pick-the-star-10liner));
  - click on **Open**;
  - type <code>CLEAR &11FF:LOAD"MAIN.COM",&1200:CALL&1200</code>;
- - make sure you have enabled the joystick with keyboard option.
+ - make sure you have enabled the joystick with keyboard option. 
 
 ### Listing the source code
 
