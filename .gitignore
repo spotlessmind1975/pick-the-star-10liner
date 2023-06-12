@@ -1,0 +1,11 @@
+bin/
+dcmoto.ini
+*.xex
+*.listing
+*.prg
+*.bin
+*.rom
+*.dsk
+*.bin
+*.k7
+*.tap
